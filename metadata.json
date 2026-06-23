@@ -1,0 +1,6 @@
+{
+  "name": "Rental Manager Co-Pilot",
+  "description": "Hệ thống quản lý chuỗi phòng trọ và chung cư tích hợp trợ lý AI chuyên nghiệp phân tích tài chính, hiệu suất kinh doanh, soạn hợp đồng và tóm tắt vận hành.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
